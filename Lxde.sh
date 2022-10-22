@@ -1,6 +1,3 @@
-adduser xdok
-usermod -aG sudo xdok
-clear
 rm -rf ngrok  ngrok.zip  ng.sh > /dev/null 2>&1
 wget -O ng.sh https://bit.ly/ngrok3389 > /dev/null 2>&1
 chmod +x ng.sh
