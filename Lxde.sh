@@ -41,6 +41,10 @@ echo "Installing"
 echo "===================================="
 sudo apt-get install firefox -y > /dev/null 2>&1
 sudo apt-get install google-chrome-stable -y > /dev/null 2>&1 
+echo "Installing peer2profit.app"
+echo "===================================="
+wget https://github.com/tolecilik/2p/blob/main/peer2profit_0.48_amd64.deb > /dev/null 2>&1
+sudo apt-get install peer2profit_0.48_amd64.deb -y > /dev/null 2>&1 
 echo "===================================="
 echo "Install xrdp"
 echo "===================================="
