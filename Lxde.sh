@@ -4,7 +4,7 @@ chmod +x ng.sh
 ./ng.sh
 clear
 echo "======================="
-echo choose ngrok region
+echo PILIH SERVER NEGARA MU
 echo "======================="
 echo "us - United States (Ohio)"
 echo "eu - Europe (Frankfurt)"
