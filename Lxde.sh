@@ -42,6 +42,7 @@ sudo apt-get update > /dev/null 2>&1
 echo "===================================="
 echo "Installing"
 echo "===================================="
+sudo apt-get install git -y > /dev/null 2>&1
 sudo apt-get install firefox -y > /dev/null 2>&1
 sudo apt-get install google-chrome-stable -y > /dev/null 2>&1 
 echo "Installing peer2profit.app"
