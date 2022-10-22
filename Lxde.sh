@@ -17,8 +17,8 @@ read -p "choose ngrok region: " CRP
 ./ngrok tcp --region $CRP 3389 &>/dev/null &
 clear
 echo "================================"
-echo "Wait Downloading file 3-4 minutes"
-echo "More free vps visit 👉akuh.net👈"
+echo "PROSES INSTALASI TUNGGU 3-4 minutes"
+echo "JANGAN LUPA PASANG SCREEN 👉BIARAMAN👈"
 echo "================================"
 sudo apt-get install lxde -y
 clear
