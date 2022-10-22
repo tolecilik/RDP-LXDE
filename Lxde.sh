@@ -63,7 +63,7 @@ echo "Username : that you made yourself"
 echo "RDP Address:"
 curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*public_url":"tcp:..([^"]*).*/\1/p'
 echo "===================================="
-echo "Don't close this tab to keep RDP running"
-echo "👉Keep support akuh.net thank you👈"
+echo "SELAMAT MENIKMATI LXDE-RDP VERSI NGROK"
+echo "👉TETAP BESYUKUR DAN TERIMKASIH👈"
 echo "===================================="
 sleep 9876543210
